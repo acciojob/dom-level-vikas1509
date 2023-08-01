@@ -11,3 +11,5 @@ let c=1;
 	}
 	alert("The level of the element is:"+n);
 }
+
+findDomlevel();
