@@ -9,5 +9,5 @@ let c=1;
 		c++;
 		target=target.parentElement;
 	}
-	alert("the level of the element :"n);
+	alert("The level of the element is:"+n);
 }
